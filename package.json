@@ -1,0 +1,16 @@
+{
+  "name": "02-bases",
+  "version": "0.0.1",
+  "description": "This my firts app by node",
+  "license": "ISC",
+  "author": "Alex Madrid",
+  "type": "commonjs",
+  "main": "app.js",
+  "scripts": {
+    "start": "node 02-bases/src/app.js",
+    "dev": "nodemon 02-bases/src/app.js"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.14"
+  }
+}
