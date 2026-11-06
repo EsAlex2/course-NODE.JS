@@ -9,5 +9,5 @@ const makePerson = buildMakePerson({ getuuid, getAge });
 const objeto = { name: 'Alex', birthYear: '1999-01-28' }
 
 const data = makePerson( objeto );
-console.table(data);
+console.table(data); 
 
